@@ -1,10 +1,13 @@
 body{
-    background-color: rgb(87, 44, 128);
+    background-color: #555;
 }
-p {
-    color: #bb0e0e;
-}
-h2 {
+h1 {
     font-size: 50px;
-    // новый коммент
+    padding: 25px;
+    border: double 5px blue;
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
 }
